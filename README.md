@@ -18,4 +18,5 @@ This repository is my personal knowledge base where I collect useful information
 
 ## Scope
 
+- Reconnaissance
 - Penetration Testing
