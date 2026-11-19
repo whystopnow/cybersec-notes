@@ -10,6 +10,7 @@ While attackers use this phase to build a blueprint for exploitation, security p
 ---
 
 [Initial Enumeration](https://github.com/whystopnow/cybersec-notes/blob/main/reconnaissance/initial-enumeration.md)
+[Credential Enumeration]()
 
 ---
 
