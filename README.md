@@ -17,5 +17,5 @@ This repository is my personal knowledge base where I collect useful information
 
 ## Scope
 
-- [Reconnaissance](https://github.com/whystopnow/cybersec-notes/tree/main/reconnaissance)
+- [Reconnaissance](https://github.com/whystopnow/cybersec-notes/blob/main/reconnaissance/README.md)
 - Penetration Testing
